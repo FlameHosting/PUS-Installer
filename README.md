@@ -12,3 +12,4 @@ DONE!
 
 ## Known Problems
 Only supports c drive and doesnt ask for you paths cus im to dumb to figure out how, make a pull request if you can.
+Could be alot more transparent and pretty aswell
