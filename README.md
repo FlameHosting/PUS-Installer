@@ -1,4 +1,3 @@
-## PUS-Installer
 
 # How to setup and use
 Subscribe to and download [this ofc](https://steamcommunity.com/sharedfiles/filedetails/?id=2562926750)
