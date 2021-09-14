@@ -6,7 +6,10 @@ Since the installation is a little annoying why not automate it and also use it 
 ## How to setup and use
 Subscribe to and download [this ofc](https://steamcommunity.com/sharedfiles/filedetails/?id=2562926750)
 
-Download the latest realese and run the exe with admin premessions
+[Download and setup Golang](https://golang.org/doc/install#download)
+
+Download the latest realese
+Run the exe with admin premessions
 
 DONE!
 
